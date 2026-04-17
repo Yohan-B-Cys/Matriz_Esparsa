@@ -280,7 +280,7 @@ int main () {
         
          system("clear"); // Descomente isso se quiser que a tela limpe a cada rodada (no Linux)
         
-        printf("\n--- LISTA ENCADEADA ---\n");
+        printf("\n--- Trabalho da Disciplina Matriz Esparça ---\n");
         printf("Selecione a opcao desejada:\n");
         printf(" 1- Iniciar Lista\n");
         printf(" 2- Inserir no inicio\n");
