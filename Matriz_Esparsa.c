@@ -249,7 +249,7 @@ void deleta_lista (nodo **N){
     aux = *N ; 
 
     if (*N==NULL){
-        printf("Lista ja está vazia ! \n");
+        printf("Lista ja está vazia  a ! \n");
         return ;
     } else {
 
