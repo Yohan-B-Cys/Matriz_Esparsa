@@ -34,7 +34,7 @@ int contador_id = 0 ;
 MatrizEsparsa * criar_nodo();
 
 // Inicializa Lista Encadeada da Matriz Esparsa
-void inicializar_lista(MatrizEsparsa ** matriz_esparsa);
+void inicializar_lista(MatrizEsparsa ** matriz_esparsa); //dsa
 
 // Insere na Lista Encadeada um nodo alocado
 void inserir_nodo(MatrizEsparsa ** matriz_esparsa, float numero, int lin, int col);
